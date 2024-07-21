@@ -4,8 +4,8 @@ import androidx.annotation.NonNull;
 
 public interface ListDiffInterface<T> {
 
-    public boolean theSameAs(@NonNull T newItem);
+    boolean theSameAs(@NonNull T newItem);
 
     @Override
-    public boolean equals(Object o);
+    boolean equals(Object o);
 }

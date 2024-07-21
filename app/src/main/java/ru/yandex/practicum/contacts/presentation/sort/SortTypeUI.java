@@ -1,7 +1,6 @@
 package ru.yandex.practicum.contacts.presentation.sort;
 
 import androidx.annotation.NonNull;
-
 import ru.yandex.practicum.contacts.presentation.base.ListDiffInterface;
 import ru.yandex.practicum.contacts.presentation.sort.model.SortType;
 
